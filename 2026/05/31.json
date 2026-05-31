@@ -7,7 +7,7 @@
     "scaleRange": "1-99",
     "openingDate": "Naber nasılsın",
     "exactDate": "31-05-2026",
-    "exactHour": "13:55",
+    "exactHour": "18:55",
     "hasLycan": false,
     "hasSimya": false,
     "hasKusak": true,
@@ -19,7 +19,7 @@
     "itemRate": "150%",
     "yangRate": "250%",
     "region": "Türkiye",
-    "youtubeTrailerUrl": "https://www.youtube.com/embed/FF1EqmYwLKI?si=hXLve71ON3oIcWXJ",
+    "youtubeTrailerUrl": "https://www.youtube.com/watch?v=n4tK7LYFxI0",
     "websiteUrl": "https://server1.origin2s.com",
     "discordUrl": "https://discord.gg/origin2",
     "customDescriptionMarkdown": "Merhaba"
@@ -43,7 +43,7 @@
     "itemRate": "150%",
     "yangRate": "250%",
     "region": "Türkiye",
-    "youtubeTrailerUrl": "https://www.youtube.com/embed/FF1EqmYwLKI?si=hXLve71ON3oIcWXJ",
+    "youtubeTrailerUrl": "https://www.youtube.com/embed/FF1EqmYwLKI",
     "websiteUrl": "https://server1.origin2s.com",
     "discordUrl": "https://discord.gg/origin2",
     "customDescriptionMarkdown": "Merhaba"
