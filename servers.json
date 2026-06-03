@@ -1,52 +1,62 @@
 [
   {
     "id": "1",
-    "hash": "5d405ea9271df081221a62921a570e9b",
-    "name": "Valerya2",
-    "difficulty": "Orta",
-    "scaleRange": "1-105",
-    "openingDate": "Açık beta 3 Haziranda!",
-    "exactDate": "05-06-2026",
-    "exactHour": "21:00",
+    "hash": "0be3a7040716dd9576db20c2b54aeead",
+    "name": "Shiva International",
+    "difficulty": "Zor",
+    "scaleRange": "1-99",
+    "openingDate": "01 Haziran 2022",
+    "exactDate": "01-06-2022",
+    "exactHour": "19:00",
     "hasLycan": false,
-    "hasSimya": true,
-    "hasKusak": true,
+    "hasSimya": false,
+    "hasKusak": false,
     "groupBlessing": false,
     "dungeonTracking": true,
     "offlineShop": true,
-    "antiCheatInfo": "UrielAC",
+    "antiCheatInfo": "CShield",
     "expRate": "100%",
     "itemRate": "100%",
     "yangRate": "100%",
-    "region": "Türkiye",
-    "youtubeTrailerUrl": "https://www.youtube.com/watch?v=9OlycrVbEdQ",
-    "websiteUrl": "https://www.valerya2.com",
-    "discordUrl": "https://discord.gg/valerya2",
-    "customDescriptionMarkdown": "Köklü Metin2 ruhunu modern, dengeli ve rekabetçi bir sunucu deneyimiyle Valerya2'de yeniden keşfedin."
+    "region": "Global",
+    "youtubeTrailerUrl": "https://youtu.be/31SVkiFiBQI",
+    "websiteUrl": "https://shiva.international",
+    "discordUrl": "https://discord.gg/VKRUmEJDpb",
+    "customDescriptionMarkdown": "# Shiva Metin2 Nedir ve Neden En Popüler Özel Sunucu?
+
+Shiva Metin2, Haziran 2022'den bu yana kesintisiz olarak çalışan uluslararası bir Metin2 Özel Sunucusudur. Günlük 5.000+ eş zamanlı oyuncu, 260.000+ kayıtlı hesap ve 13 dil desteğiyle Shiva, dünyanın en büyük ve en aktif Metin2 PServer'idir. Sunucu tamamen ücretsiz oynanabilir ve sıfır pay-to-win mekaniği içerir - her eşya ve yükseltme oyun içinde kazanılır.
+
+## Neden Her Gün 5.000+ Oyuncu Shiva'yı Seçiyor?
+
+Üç temel faktör Shiva'yı diğer tüm Metin2 Özel Sunucularından ayırır:
+
+- Botları tamamen ortadan kaldıran **CShield anti-cheat koruması**
+- 3 yıldır hiç sıfırlanmamış bir **ekonomi**
+- Çoğu PServer'in güç eşyalarını gerçek parayla sattığı bir pazarda uygulanan katı **sıfır pay-to-win politikası**"
   },
   {
     "id": "2",
-    "hash": "3b27750c82dc53b85bce7a717db59197",
-    "name": "İnziva2",
+    "hash": "b83f99d7533875da7b5ede9d14070aae",
+    "name": "Mt2009",
     "difficulty": "Zor",
     "scaleRange": "1-99",
-    "openingDate": "5 Haziran 2026",
-    "exactDate": "05-06-2026",
-    "exactHour": "21:00",
+    "openingDate": "30 Ocak 2026",
+    "exactDate": "30-01-2026",
+    "exactHour": "19:00",
     "hasLycan": false,
     "hasSimya": false,
     "hasKusak": false,
     "groupBlessing": false,
     "dungeonTracking": false,
-    "offlineShop": false,
-    "antiCheatInfo": "SvSide+",
+    "offlineShop": true,
+    "antiCheatInfo": "-",
     "expRate": "100%",
     "itemRate": "100%",
     "yangRate": "100%",
-    "region": "Türkiye",
-    "youtubeTrailerUrl": "https://www.youtube.com/watch?v=9OlycrVbEdQ",
-    "websiteUrl": "https://www.inziva2.com",
-    "discordUrl": "https://discord.gg/gWVfxRkFKV",
-    "customDescriptionMarkdown": "Nostaljik oyun nedir? Kostüm, pet, yüzük bulundurmayıp nesne marketten satılan efsun nesnesi ile pay2win bir sunucu oynatmak asla değildir. Peki ya hard oyun nedir? Aylarca Örümcek zindanında hesap kastırıp aynı şeyi defalarca tekrarlamak mıdır? Hayır, dengesiz bir oyun sunmak asla hard yapı demek olmamalıdır. Biz İnziva2 ekibi olarak nesne markette efsun nesnesi satmayarak ve Sürgün Mağarasını oyunun başından itibaren açarak yozlaşmış hard emek piyasasına yep yeni bir soluk getiriyoruz. Büyük açılış 5 Haziran!"
+    "region": "Global",
+    "youtubeTrailerUrl": "https://youtu.be/bn1YCClRF-g",
+    "websiteUrl": "https://www.mt2009.eu",
+    "discordUrl": "https://discord.gg/mt2009eu",
+    "customDescriptionMarkdown": "Mt2009, orijinal 2009 dönemi deneyimine dönüş olarak inşa edilmiş bir oldschool Metin2 projesidir. Kısayol yok, modern güç enflasyonu yok, sahte ilerleme sistemleri yok. Bu sunucu, Metin'in en parlak yıllarını tanımlayan klasik yapıyı, klasik tempoyu ve klasik prestiji geri getiriyor."
   }
 ]
