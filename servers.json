@@ -47,6 +47,31 @@
     "youtubeTrailerUrl": "https://youtu.be/bn1YCClRF-g",
     "websiteUrl": "https://www.mt2009.eu",
     "discordUrl": "https://discord.gg/mt2009eu",
-    "customDescriptionMarkdown": "Mt2009, orijinal 2009 dönemi deneyimine dönüş olarak inşa edilmiş bir oldschool Metin2 projesidir. Kısayol yok, modern güç enflasyonu yok, sahte ilerleme sistemleri yok. Bu sunucu, Metin'in en parlak yıllarını tanımlayan klasik yapıyı, klasik tempoyu ve klasik prestiji geri getiriyor."
+    "customDescriptionMarkdown": "# TEMEL ÖZELLİKLER\n\n- Sadece 4 orijinal sınıf (**Savaşçı / Ninja / Sura / Şaman**)\n- Maksimum Seviye: **99**\n- 3 Krallık (**Shinsoo / Chunjo / Jinno**)\n- En İyi Oldschool Ekonomisi\n- Saf PVP Dengesi\n- P2W Avantajı Yok\n- Kısa süreli bir heyecan için değil, uzun yıllar sürecek bir yolculuk için tasarlandı.\n- İşte **Mt2009!**\n\n---\n\n# OYNANIŞ VE İLERLEME\n\nSeviye atlamak, farm yapmak, eşya elde etmek, hesap gücü oluşturmak; bunların hepsi gerçek çaba gerektirir.\n\nEşyaların değeri yapay drop artışından değil, doğal nadirlikten kaynaklanır.\n\nGörev ilerlemesi, klasik at sistemi ilerlemesi ve beceri ilerlemesi; kitaplardaki süre sınırları, ruh taşları, biyolog görevleri ve at görevleri dahil olmak üzere orijinal kalır.\n\n---\n\n# TEMEL MEKANİKLER VE SİSTEM DÜZENLEMELERİ\n\n- Balıkçılık 50. seviyede açılır\n- Bitkicilik ve iksir yapımı eklendi\n- Madencilik, Toplayıcılık becerisi ile değiştirilerek hem madencilik hem de bitkicilik verimliliği artırıldı\n- Liderlik bonusları yeniden dengelendi ve geliştirildi\n- Dönüşüm bonusları düzenlendi\n- Depar becerisi 1. seviyeden itibaren mevcuttur"
+  },
+  {
+    "id": "3",
+    "hash": "0fc1598bd64380e8f7210ac1a93db3e2",
+    "name": "Alturi",
+    "difficulty": "Kolay",
+    "scaleRange": "1-120",
+    "openingDate": "14 Şubat 2025",
+    "exactDate": "14-02-2025",
+    "exactHour": "19:00",
+    "hasLycan": true,
+    "hasSimya": true,
+    "hasKusak": true,
+    "groupBlessing": true,
+    "dungeonTracking": true,
+    "offlineShop": true,
+    "antiCheatInfo": "-",
+    "expRate": "100%",
+    "itemRate": "100%",
+    "yangRate": "100%",
+    "region": "Global",
+    "youtubeTrailerUrl": "https://youtu.be/I15gY5ZtgD8",
+    "websiteUrl": "https://alturi.to",
+    "discordUrl": "https://discord.gg/K7sbgJrZXN",
+    "customDescriptionMarkdown": "# BAŞLANGIÇ\n\nKarakter oluşturma aşamasında, oyuna eklenen bazı yeni özellikleri hemen keşfedeceksiniz. Karakterinizi tamamen kendi zevkinize göre şekillendirebilir; farklı saç stilleri, başlangıç binekleri ve evcil hayvanlar arasından seçim yapabilirsiniz. Hatta becerilerinizi karakter seçim ekranında doğrudan belirleyebilirsiniz.\n\nSeçiminiz ne olursa olsun, bineğiniz ve evcil hayvanınız her zaman aynı 3 başlangıç bonusuna sahip olacaktır.\n\n---\n\n# TANITIM\n\nAlturi, alışılmış Metin2 deneyimini tamamen yeni içeriklerle birleştirirken oyunun özünü korumayı hedefliyor. Son aylarda geliştirme sürecimizi paylaşırken birçok oyuncu tarafından \"Metin3\" olarak adlandırıldık. Bunun en büyük nedeni, yeni grafikler ve özgün harita tasarımlarına verdiğimiz önemdir.\n\nÖrneğin, birden fazla su altı dünyasına sahip ilk sunucuyuz. Tüm içerik yapısı uzun vadeli bir oyun deneyimi sunmak amacıyla tasarlanmıştır. Etkinlikler aylar öncesinden planlanmış olup, içerik güncellemeleri hazır durumdadır ve oyun akışına sorunsuz bir şekilde entegre edilebilmektedir."
   }
 ]
