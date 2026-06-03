@@ -1,2 +1,1 @@
-# metin2-calendar
-Metin2 Calendar
+Metin2 Takvim API
