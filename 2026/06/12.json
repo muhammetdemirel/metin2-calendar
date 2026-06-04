@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "hash": "4c259c7883c0786753e6ecdba506d4e2",
+    "name": "Dolunay2",
+    "difficulty": "Zor",
+    "scaleRange": "1-99",
+    "openingDate": "12 Haziran 2026",
+    "exactDate": "12-06-2022",
+    "exactHour": "21:00",
+    "hasLycan": false,
+    "hasSimya": false,
+    "hasKusak": false,
+    "groupBlessing": false,
+    "dungeonTracking": true,
+    "offlineShop": true,
+    "autoHuntInfo": "Yok",
+    "legalSaleInfo": "Var",
+    "antiCheatInfo": "BearAC",
+    "expRate": "100%",
+    "itemRate": "100%",
+    "yangRate": "100%",
+    "region": "Türkiye",
+    "youtubeTrailerUrl": "https://youtu.be/bn1YCClRF-g",
+    "websiteUrl": "https://dolunay2.com",
+    "discordUrl": "https://discord.gg/dolunay2",
+    "customDescriptionMarkdown": "-"
+  }
+]
