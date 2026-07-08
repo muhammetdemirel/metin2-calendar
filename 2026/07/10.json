@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "hash": "",
+    "name": "",
+    "difficulty": "Zor",
+    "scaleRange": "1-99",
+    "openingDate": "10 Temmuz 2026",
+    "exactDate": "10-07-2026",
+    "exactHour": "21:00",
+    "hasLycan": false,
+    "hasSimya": false,
+    "hasKusak": false,
+    "groupBlessing": false,
+    "dungeonTracking": true,
+    "offlineShop": true,
+    "autoHuntInfo": "Yok",
+    "legalSaleInfo": "Yok",
+    "antiCheatInfo": "Var",
+    "expRate": "100%",
+    "itemRate": "100%",
+    "yangRate": "100%",
+    "region": "Global",
+    "youtubeTrailerUrl": "",
+    "websiteUrl": "/?utm_source=metin2takvim&utm_medium=app&utm_campaign=com.aistudio.metin2pvp.wdqbcz",
+    "discordUrl": "",
+    "customDescriptionMarkdown": "![Shiva International](https://raw.githubusercontent.com/muhammetdemirel/metin2-calendar/refs/heads/main/presentation/shiva.png)"
+  }
+]
