@@ -1,0 +1,29 @@
+[
+   {
+    "id": "1",
+    "hash": "0d0fc4335992c72b01171fe8e168cabd",
+    "name": "Ayyıldız2",
+    "difficulty": "Orta",
+    "scaleRange": "1-99",
+    "openingDate": "denemeeee",
+    "exactDate": "20-07-2026",
+    "exactHour": "21:00",
+    "hasLycan": false,
+    "hasSimya": false,
+    "hasKusak": false,
+    "groupBlessing": false,
+    "dungeonTracking": true,
+    "offlineShop": true,
+    "autoHuntInfo": "Yok",
+    "legalSaleInfo": "Yok",
+    "antiCheatInfo": "Var",
+    "expRate": "100%",
+    "itemRate": "100%",
+    "yangRate": "100%",
+    "region": "Türk",
+    "youtubeTrailerUrl": "https://youtu.be/bn1YCClRF-g",
+    "websiteUrl": "https://www.ayyildiz2.com/?utm_source=metin2takvim&utm_medium=app&utm_campaign=com.aistudio.metin2pvp.wdqbcz",
+    "discordUrl": "https://whatsapp.com/channel/0029Vb8Jt2y2975IiqHQHd3j",
+    "customDescriptionMarkdown": "![Ayyıldız2](https://raw.githubusercontent.com/muhammetdemirel/metin2-calendar/refs/heads/main/presentation/ayyildiz2.png)"
+  }
+]
