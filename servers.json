@@ -3,7 +3,7 @@
 	"id": "1",
 	"hash": "0be3a7040716dd9576db20c2b54aeead",
 	"name": "Shiva International",
-	"description": "Modern Oldschool",
+	"description": "Oldschool",
 	"difficulty": "Zor",
 	"levelRange": { "min": 1, "max": 99 },
 	"openingAt": "2022-06-01T19:00:00",
@@ -31,6 +31,6 @@
 		"youtubeTrailer": "https://youtu.be/31SVkiFiBQI",
 		"presentation": "https://shiva.international/assets/images/logo.webp"
 	},
-	"content": "# Sunucuyu Keşfet ## Dört Klasik Sınıf, En Yüksek Seviye 99 **Savaşçı, Ninja, Sura veya Şaman** seç. Shiva, dört klasik sınıfı kendine özgü beceri düzenlemeleri ve 99 seviyeye uzanan karakter gelişimiyle bir araya getirir. ## Yeniden Giriş Destekli Zindan Paneli Giriş koşullarını, bekleme sürelerini ve tek kişilik veya grup bilgilerini incele. Panel; yeniden giriş, girişe ışınlanma ve kişisel ya da genel zindan sıralamaları sunar. ## Biyolog, Wiki ve Hedef Bilgisi Biyolog yöneticisinden eşyalarını teslim et, ilerleyişini ve bekleme süreni takip et. Oyun içi Wiki ve hedef bilgisiyle dropları, dirençleri ve sistemleri incele. ## Küresel Pazar Araması ve Doğrudan Alım Oyuncu tekliflerini ara ve bulunduğun yerden doğrudan satın al. Çevrimdışı pazarlar satış geçmişi ile satış bildirimlerini de sunar."
+	"content": "# Sunucuyu Keşfet\n\n## Dört Klasik Sınıf, En Yüksek Seviye 99\n**Savaşçı, Ninja, Sura veya Şaman** seç. Shiva, dört klasik sınıfı kendine özgü beceri düzenlemeleri ve 99 seviyeye uzanan karakter gelişimiyle bir araya getirir.\n\n## Yeniden Giriş Destekli Zindan Paneli\nGiriş koşullarını, bekleme sürelerini ve tek kişilik veya grup bilgilerini incele. Panel; yeniden giriş, girişe ışınlanma ve kişisel ya da genel zindan sıralamaları sunar.\n\n## Biyolog, Wiki ve Hedef Bilgisi\nBiyolog yöneticisinden eşyalarını teslim et, ilerleyişini ve bekleme süreni takip et. Oyun içi Wiki ve hedef bilgisiyle dropları, dirençleri ve sistemleri incele.\n\n## Küresel Pazar Araması ve Doğrudan Alım\nOyuncu tekliflerini ara ve bulunduğun yerden doğrudan satın al. Çevrimdışı pazarlar satış geçmişi ile satış bildirimlerini de sunar."
   }
 ]
